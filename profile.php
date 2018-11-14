@@ -1,7 +1,7 @@
 <?php
 
 
-$access_token = '3ALKAbKFoGuJyJnoDdn0HeyfbxLFtEXBKiC0lFeoNl/XbL4WhoCZzefp2n7UDuXaCWfErIDro07BnZNggJmXJChXTIlMPo8LRJ+n1LEgbRUaKehDkiCr5p5CakHrPX+gauOGX/R5bB2e5yi7xjnHDAdB04t89/1O/w1cDnyilFU=';
+$access_token = 'mrrQNdQKAKiHtb4VXD6hajpweXumKByk+gUV4/EbXkqHNIFP4KWRpRvUfcM6SlkCUMDbXvyznyVIiNoKg5WD8LP6pzxYiUGprqCx9D2VTxV+SdeeBsw+RUfC/TT0MsJMMAePhskLjKxTYrrCZxY4jgdB04t89/1O/w1cDnyilFU=';
 
 $userId = 'Uffa138efe037e6e889d0b0f4a871c005';
 
@@ -17,4 +17,3 @@ $result = curl_exec($ch);
 curl_close($ch);
 
 echo $result;
-
